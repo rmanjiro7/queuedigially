@@ -1,0 +1,6 @@
+{
+  "name": "QueueFlow - Smart Queue Management System",
+  "description": "A comprehensive real-time digital queue management system featuring customer token tracking, staff service desk terminals, live kiosk display boards, analytics bento grids, and admin service controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
